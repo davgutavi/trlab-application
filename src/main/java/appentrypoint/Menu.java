@@ -26,12 +26,8 @@ public class Menu extends JPanel {
 	 * Create the panel.
 	 */
 	public Menu() {
+		
 		setLayout(new FlowLayout(FlowLayout.CENTER, 0, 5));
-
-		
-		
-		
-		
 		
 		JButton launchButton = new JButton();
 		launchButton.setToolTipText("Launch an experiment");
