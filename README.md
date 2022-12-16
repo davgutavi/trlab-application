@@ -17,4 +17,4 @@ GUI for TrLab.
 
 - Gutiérrez-Avilés, D., Giráldez, R., Gil-Cumbreras, F., Rubio-Escudero C. TRIQ: a new method to evaluate triclusters. BioData Mining 11, 15 (2018). https://doi.org/10.1186/s13040-018-0177-5
 
-- Martínez-Álvarez F, Gutiérrez-Avilés D, Morales-Esteban A, Reyes J, Amaro-Mellado JL, Rubio-Escudero C. A Novel Method for Seismogenic Zoning Based on Triclustering: Application to the Iberian Peninsula. Entropy. 2015; 17(7):5000-5021. https://doi.org/10.3390/e1707500
+- Martínez-Álvarez F, Gutiérrez-Avilés D, Morales-Esteban A, Reyes J, Amaro-Mellado JL, Rubio-Escudero C. A Novel Method for Seismogenic Zoning Based on Triclustering: Application to the Iberian Peninsula. Entropy. 2015; 17(7):5000-5021. https://doi.org/10.3390/e17075000
